@@ -1,6 +1,6 @@
-# नमस्ते 🙏
+## नमस्ते 🙏
 
-![code-snapshot](https://user-images.githubusercontent.com/89919240/134825063-17aaf104-4c49-4f7d-8c68-2334a10528cb.png)
+![code-snapshot](https://user-images.githubusercontent.com/89919240/134949835-ceed88e6-dcb3-484e-a591-a08ef9c46d46.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ai-watcher.ai-watcher) <br>
 
